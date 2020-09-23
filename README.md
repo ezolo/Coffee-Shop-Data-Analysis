@@ -13,7 +13,7 @@
 -  Cup Size
 
 ## 👩‍🏫 Project Walk Through
-{%youtube https://youtu.be/2YG-ZR2XA0U %}
+{%youtube 2YG-ZR2XA0U %}
 
 ## 😃 Thank you for viewing my application ##
 > I hope you enjoyed the little walk through of the Coffee Shop Data Analysis. If you have any questions and/or concerns let me know! Don't forget to leave a star⭐️.
